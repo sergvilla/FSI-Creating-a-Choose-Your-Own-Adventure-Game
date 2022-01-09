@@ -1,3 +1,4 @@
+
 let firstAnswer  = window.prompt('Do you head left or right?')
 if(firstAnswer === 'left'){
     let secondAnswer = window.prompt(`You come across a stray cat. 
