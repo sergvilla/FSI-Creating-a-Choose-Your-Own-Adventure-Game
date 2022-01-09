@@ -1,2 +1,2 @@
 let firstAnswer  = window.prompt('Do you head left or right?')
-console.log(firstAnswer)
+console.log(firstAnswer ==='left')
