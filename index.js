@@ -26,10 +26,10 @@ if (thirdAnswer === 'Ladder') {
 On the other side of him, you see a shiny chest of treasure. Another path would 
 lead you away from the dragon altogether. Which path do you take?`)
 
-if (secondAnswer ==='Past the dragon'){
+if (secondAnswer ==='Past the dragon') {
     let thirdAnswer = window.prompt('The dragon wakes up and sits upright. You only have a moment to respond, to stay or run:')
 }
-if (thirdAnswer === 'stay'){
+if (thirdAnswer === 'stay') {
     window.alert('You and the dragon have an uplifting conversation about local politics and become lifelong friends.')
 } else if (thirdAnswer === 'run') {
     window.alert('Quickly, you run back to the caves entrance. Sheepish, you return home')
